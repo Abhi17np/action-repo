@@ -1,4 +1,3 @@
 # action-repo
-yes
 # successful
 
